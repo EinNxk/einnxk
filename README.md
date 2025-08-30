@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋Hey, ich bin EinNik
 
-<!--
-**EinNxk/einnxk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀Meine Erfahrungen
+- **Sprachen & Technologien:** Java, SQL
+- **Sonstiges:**
+  - **Linux-Administration**
+  - **Bukkit/Paper API**
+  - **Bungeecord/Velocity API**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ---
+
+ ## 📙Meine Projekt/Projekte die ich unterstütze
+`Game-Developer` ![Badge](https://img.shields.io/badge/Nikcraft.de%20Administrator-%23C11527?labelColor=gray)
+
+---
+
+## 📫Kontakt
+Du möchtest mich kontaktieren um mit mir zu arbeiten oder mich etwas fragen?
+- **E-Mail:** [meine mail](mailto:einnxk@gmail.com)
+- **Discord: `@einnik`**
