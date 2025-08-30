@@ -12,7 +12,7 @@
  ---
 
  ## 📙Meine Projekt/Projekte die ich unterstütze
-`Game-Developer` ![Badge](https://img.shields.io/badge/Nikcraft.de%20Administrator-%23C11527?labelColor=gray)
+`Als Developer & Admin` ![Badge](https://img.shields.io/badge/Nikcraft.de-gray?label=Administrator&labelColor=gray&color=C11527)
 
 ---
 
