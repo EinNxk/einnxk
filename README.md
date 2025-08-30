@@ -8,6 +8,7 @@
   - **Linux-Administration**
   - **Bukkit/Paper API**
   - **Bungeecord/Velocity API**
+  - **Datenbanken(ins. bes. HikariCP)**
 
  ---
 
