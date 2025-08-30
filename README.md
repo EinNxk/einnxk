@@ -21,3 +21,6 @@
 Du möchtest mich kontaktieren um mit mir zu arbeiten oder mich etwas fragen?
 - **E-Mail:** [meine mail](mailto:einnxk@gmail.com)
 - **Discord: `@einnik`**
+
+---
+🤯Du hast dir wirklich alles durchegelesen :3
