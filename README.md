@@ -3,12 +3,12 @@
 ---
 
 ## 🚀Meine Erfahrungen
-- **Sprachen & Technologien:** Java, SQL
+- **Sprachen & Technologien:** Java, C++
 - **Sonstiges:**
   - **Linux-Administration**
   - **Bukkit/Paper API**
   - **Bungeecord/Velocity API**
-  - **Datenbanken(ins. bes. HikariCP)**
+  - **Datenbanken(MySQL, Redis)**
 
  ---
 
