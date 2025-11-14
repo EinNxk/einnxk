@@ -5,8 +5,9 @@
 ## 🚀Meine Erfahrungen
 
 ### 🎈Toolstack
-- **Java, C++**
+- **Java, C++, Kotlin**
 - **MySQL, Redis, PostgresSQL**
+- **Android Apps**
 - **Docker**
 - **Velocity, Paper, JDA, Twitch API**
 - **Spring**
